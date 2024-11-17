@@ -37,6 +37,12 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 資料：[Youtube](https://www.youtube.com/watch?v=Hg3fCm8zBb0&t)
 
+## 11/16：【Pycon mini 東海 2024】Google Colaboratoryで試すVLM
+<img src="https://github.com/user-attachments/assets/5dccf41d-a00b-4064-82e1-955ca827ae10" width="640px" height="360px">
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pycon-mini-dong-hai-2024-google-colaboratorydeshi-suvlm) / [Youtube](https://youtu.be/VfKx6M0pG_s)
+関連リポジトリ：https://github.com/Kazuhito00/Pycon-mini-Tokai-2024-VLM-Colaboratory-Sample
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
